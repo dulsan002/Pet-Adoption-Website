@@ -2,6 +2,9 @@
 
 A simple, dynamic pet adoption website built with HTML, CSS, and vanilla JavaScript. This project fetches data from an external JSON API and dynamically displays pet cards with filtering functionality.
 
+🚀 **Live Demo**:  
+🔗 [Visit the site here](https://dulsan002.github.io/Pet-Adoption-Website/)
+
 ## 🚀 Features
 
 - 🔄 Fetches pet data from a live JSON API
